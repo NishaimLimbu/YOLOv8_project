@@ -33,11 +33,9 @@ YOLO-Project/
 # 🚀 How to Run the Apps
 
 **👤 Person-Only Detection**
-```bash
 streamlit run Person_detection.py
 
 **🌐 General Object Detection (all YOLO classes)**
-```bash
 streamlit run YOLO_Project.py
 .
 
