@@ -36,7 +36,7 @@ YOLO-Project/
 ```bash
     streamlit run Person_detection.py
 
-
+##
 **🌐 General Object Detection (all YOLO classes)**
 ```bash
     streamlit run YOLO_Project.py
