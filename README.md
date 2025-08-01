@@ -27,12 +27,10 @@ YOLO-Project/
 - `streamlit`
 
 ### 📦 Installation
-
 ```bash
 pip install streamlit opencv-python ultralytics
 
-
-### 🚀 How to Run the Apps
+🚀 How to Run the Apps
 **👤 Person-Only Detection**
 streamlit run Person_detection.py
 **🌐 General Object Detection (all YOLO classes)**
