@@ -34,12 +34,11 @@ YOLO-Project/
 
 **👤 Person-Only Detection**
 ```bash
-    streamlit run Person_detection.py
+streamlit run Person_detection.py
 
-##
 **🌐 General Object Detection (all YOLO classes)**
 ```bash
-    streamlit run YOLO_Project.py
+streamlit run YOLO_Project.py
 .
 
 🧠 About the Model
