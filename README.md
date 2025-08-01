@@ -36,5 +36,5 @@ YOLO-Project/
 👤 Person Detection Only
 python Person_detection.py (in command prompt)
 
-🌐 Full YOLOv8 Object Detection
+**🌐 Full YOLOv8 Object Detection**
 python YOLO_Project.py
