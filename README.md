@@ -31,14 +31,17 @@ YOLO-Project/
     pip install streamlit opencv-python ultralytics
 
 # 🚀 How to Run the Apps
+
 **👤 Person-Only Detection**
     ```bash
     streamlit run Person_detection.py
+
 
 **🌐 General Object Detection (all YOLO classes)**
     ```bash
     streamlit run YOLO_Project.py
 .
+
 🧠 About the Model
 1.yolov8n.pt is the nano version of YOLOv8:
 2.Fastest and most lightweight
